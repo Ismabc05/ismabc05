@@ -19,6 +19,8 @@ Me interesa seguir aprendiendo y crecer como profesional.
 - ⚛️ React
 - 📜 JavaScript
 - 🌐 HTML5 / CSS3
+- 🐍 Python
+- 🐬 PHP
 - 🧩 Git / GitHub
 - 🎨 Responsive Design
 
@@ -32,9 +34,9 @@ App para organizar tareas.
 🔗 Repo: https://github.com/ismabc05/OrganizaTe
 
 ### 📌 Curso React
-Prácticas y ejercicios con React.
+Prácticas y ejercicios.
 
-🔗 Repo: https://github.com/ismabc05/curso-practica-react
+🔗 Repo: https://github.com/stars/Ismabc05/lists/practicas
 
 ---
 
