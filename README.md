@@ -51,5 +51,5 @@ Prácticas y ejercicios.
 ## 📫 Contacto
 
 - 📍 Córdoba, España
-- 💼 LinkedIn: www.linkedin.com/in/ismael-bedmar-cejas-b49b9438b
+- 💼 LinkedIn: www.linkedin.com/in/ismaelbedmar
 - ✉️ Email: ismaelbedmarcejas@gmail.com
