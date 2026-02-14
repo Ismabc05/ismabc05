@@ -33,6 +33,11 @@ App para organizar tareas.
 
 🔗 Repo: https://github.com/ismabc05/OrganizaTe
 
+### 📌 IsmaelBedmar
+Portfolio personal.
+
+🔗 Repo: https://github.com/ismabc05/ismaelbedmar
+
 ### 📌 Curso React
 Prácticas y ejercicios.
 
@@ -53,3 +58,4 @@ Prácticas y ejercicios.
 - 📍 Córdoba, España
 - 💼 LinkedIn: www.linkedin.com/in/ismaelbedmar
 - ✉️ Email: ismaelbedmarcejas@gmail.com
+- 🌐 Página Web: www.ismaelbedmarcejas.com
