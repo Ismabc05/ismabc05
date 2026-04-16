@@ -19,8 +19,8 @@ Me interesa seguir aprendiendo y crecer como profesional.
 - ⚛️ React
 - 📜 JavaScript
 - 🌐 HTML5 / CSS3
-- 🐍 Python
-- 🐬 PHP
+- 🐍 NodeJS
+- 🐬 TypeScript
 - 🧩 Git / GitHub
 - 🎨 Responsive Design
 
