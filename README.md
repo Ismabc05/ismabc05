@@ -28,6 +28,11 @@ Me interesa seguir aprendiendo y crecer como profesional.
 
 ## 📂 Proyectos destacados
 
+### 📌 Cine-Total
+App donde encontraras tu peliculas y series favortias.
+
+🔗 Repo: https://github.com/ismabc05/OrganizaTe
+
 ### 📌 OrganizaTe
 App para organizar tareas.
 
