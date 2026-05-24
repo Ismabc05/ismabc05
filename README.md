@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ismael Bedmar
 
-💻 Desarrollador Frontend Junior  
+💻 Desarrollador Junior  
 🚀 Especializado en React, JavaScript y TypeScript
 
 ---
