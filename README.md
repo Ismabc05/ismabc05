@@ -20,6 +20,7 @@ Me interesa seguir aprendiendo y crecer como profesional.
 - 📜 JavaScript
 - 🌐 HTML5 / CSS3
 - 🐍 NodeJS
+- 📚 NestJS
 - 🚀 ExpressJS
 - 🐬 TypeScript
 - 🧩 Git / GitHub
