@@ -30,11 +30,6 @@ Me interesa seguir aprendiendo y crecer como profesional.
 
 ## 📂 Proyectos destacados
 
-### 📌 Cine-Total
-App donde encontraras tu peliculas y series favortias.
-
-🔗 Repo: https://github.com/Ismabc05/Cine-Total.git
-
 ### 📌 OrganizaTe
 App para organizar tareas.
 
@@ -49,7 +44,7 @@ Portfolio personal.
 
 ## 📈 Actualmente
 
-- 📚 Aprendiendo más sobre React
+- 📚 Aprendiendo más sobre NodeJs
 - ⚙️ Mejorando buenas prácticas
 - 🚀 Construyendo proyectos personales
 
