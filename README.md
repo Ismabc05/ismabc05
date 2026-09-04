@@ -30,10 +30,10 @@ Me interesa seguir aprendiendo y crecer como profesional.
 
 ## 📂 Proyectos destacados
 
-### 📌 OrganizaTe
-App para organizar tareas.
+### 📌 Medicitas
+App para citas médicas
 
-🔗 Repo: https://github.com/ismabc05/OrganizaTe
+🔗 Repo: https://github.com/ismabc05/Medicitas
 
 ### 📌 IsmaelBedmar
 Portfolio personal.
